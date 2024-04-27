@@ -1,0 +1,25 @@
+Readline PCAP
+1. what are infected file downloads and their hashes?
+	mengetahui bentuk hash dari file yang diambil
+	
+	052151a26e87b21413e26b458b400d81  file.exe -> infected exe
+	066ef7de7e6a9e8d2095bbe5dbb3f0e7  file.js -> safe js
+	7dc79fe7f854ec7f2bf2276d18106a67  file.swf -> safe swf
+
+2. what the IP address of the infected website
+	exe : 94.63.149.152
+
+
+3. what is the IP address of the infected machine
+	exe : 147.32.84.165
+
+
+4. what is the hostname of the infected machine
+	Windows XP named 'SARUMAN'
+
+5. what is the MAC address of the infected machine
+	exe : Destination: PcsCompu_b5:b7:19 (08:00:27:b5:b7:19)
+	
+6. what url/domain of the infected site
+	exe : [Request URI: http://ii.ebatmoyhuy.com/]
+
